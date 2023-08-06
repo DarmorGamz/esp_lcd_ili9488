@@ -1,0 +1,5 @@
+dependencies:
+  idf: '>=4.4'
+description: ESP LCD ILI9488
+url: https://https://github.com/DarmorGamz/esp_lcd_ili9488
+version: 1.0.0
